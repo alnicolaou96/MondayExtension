@@ -1,0 +1,13 @@
+{
+    "name": "Ugh Mondays",
+    "version": "1.0",
+    "description": "its a monday",
+
+
+    "background":{
+        "scripts":["background.js"],
+        "persistan":"false"
+    },
+
+        "manifest_version": 2
+}
